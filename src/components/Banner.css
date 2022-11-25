@@ -1,0 +1,51 @@
+
+
+.banner{
+    
+    background-color: #3b4da1;
+   
+    height: 100vh;
+    border-top: 0.5px solid rgb(110,124,252);
+    font-family: system-ui, system-ui, sans-serif;
+    letter-spacing: 1px;
+
+}
+
+.banner-left{
+    color: white;
+    width: 500px;
+    margin-top: 200px;
+ 
+}
+/* .banner-left h1{
+    text-align: left;
+} */
+
+
+
+.banner-left .banpara{
+    
+    width:450px;
+    height: 100px;
+    padding-top: 100px;
+    line-height: 22px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    color: rgb(185, 185, 213);
+}
+
+
+.banner-left .banbutton{
+    width:150px;
+    height: 40px;
+    margin-top: 50px;
+   
+    border-radius: 5px;
+    
+    
+}
+
+.banner-right{
+    width: 2px;
+    margin-top: 150px;
+}

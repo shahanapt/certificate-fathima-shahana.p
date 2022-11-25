@@ -1,0 +1,37 @@
+.upsheading{
+    background-color: #f8f8fb;
+}
+.hdng3{
+    padding: 20px;
+}
+.upcard{
+    margin: 22px;
+}
+
+
+.formrow{
+    padding: 0px;
+}
+
+.divbtn{
+    margin-left: 263px;
+    width: 23rem;
+}
+
+.upsbtn{
+    width: 150px;
+    color: black;
+    background-color: #f8f8fb;
+    border: 0px;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+.upsbtn1{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+.upsin{
+    border: none;
+}

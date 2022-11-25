@@ -1,0 +1,29 @@
+.tablecard{
+    background-color: #f8f8fb;
+    padding: 25px;
+}
+.sbtn{
+    width: 210px;
+}
+
+.show{
+    display: flex;
+    justify-content: flex-end;
+}
+.inpt{
+    width: 35px;
+    height: 25px;
+}
+
+.pgntn{
+    margin-left: 10px;
+    
+}
+.numb{
+    border: 0px;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    padding-top: 7px;
+    padding-left: 15px;
+}

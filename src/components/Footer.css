@@ -1,0 +1,51 @@
+.footer{
+    height: 50vh;
+    margin-top: 50px;
+}
+
+
+.footer-left {
+    
+    text-align: left;
+}
+
+
+.footer-right{
+    text-align: left; 
+}
+
+.group{
+    font-size: smaller;
+    padding: 10px;
+    margin-left: 22px;
+    
+}
+
+/* li{
+   list-style: none;
+   font-size: small;
+   line-height: 30px;
+   color: rgb(185, 185, 213);
+} */
+
+.icon1, .icon2, .icon3{
+    margin-left: 3px;
+    font-size: large;
+    padding: 2px;
+    
+}
+
+.icon1{
+    color: #556ee6;
+}
+
+.icon2{
+    color: #50a5f1;
+}
+
+.icon3{
+    color: #f46a6a;
+}
+.foticon{
+    margin-left: 30px;
+}
