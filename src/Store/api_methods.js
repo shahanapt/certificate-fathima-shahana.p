@@ -3,7 +3,7 @@ import axios from "axios"
 // import cookieClient from 'react-cookie'
 
 //apply base url for axios
-export const API_URL = "http://api.certificates.edisonvalley.com/api/v1"
+export const API_URL = "https://api.certificates.edisonvalley.com/api/v1"
 // export const API_URL = "http://127.0.0.1:8000/api/v1/web/"
 
 export const axiosApi = axios.create({

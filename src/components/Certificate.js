@@ -38,12 +38,14 @@ const Certificate = () => {
     parseInt(item?.progress)
   );
 
+//  progress number(integer) to variable
+
   const progressTotal = Totalprogress?.reduce((x, y) => x + y, 0);
   console.log(progressTotal);
 
   const result = progressTotal / length;
   const abc = result / 2;
-  const progressResult = Math.floor(abc);
+  const progressResult = Math.floor(abc);   
 
   const HandlePrint = (e) => {
     e.preventDefault();
@@ -245,7 +247,7 @@ const Certificate = () => {
                 <h2
                   style={{
                     color: "black",
-                    fontSize: "30px",
+                    fontSize: "25px",
                     minWidth: "150px",
                     textAlign: "initial",
                   }}
