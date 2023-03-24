@@ -1,0 +1,32 @@
+.btitle{
+    margin: 0px;
+}
+.bsub{
+    display: flex;
+}
+.headD{
+    padding-left: 10px;
+    /* padding-top: -3px; */
+}
+
+.iconp{
+    padding-top: 32px;
+    margin: 2px;
+}
+.bsub1{
+    padding-top:10px;
+    display: flex;
+    
+ 
+}
+.bsub2{
+    display: flex;
+    /* padding-top: 80px; */
+}
+
+.droop{
+    width: 200px;
+    margin-top: 30px;
+    text-align: left;
+    /* display: flex; */
+}

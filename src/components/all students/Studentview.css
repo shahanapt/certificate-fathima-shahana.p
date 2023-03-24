@@ -1,0 +1,30 @@
+.stdview{
+    background-color: #f8f8fb;
+    
+}
+
+.viewbutton{
+    width: 7rem;
+    color: blue;
+    border-radius: 5px;
+    margin: 3px;
+}
+.viewbutton1{
+    width: 5rem;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.viewimg{
+    height: 150px;
+}
+.viewhd{
+    padding: 0px;
+}
+.cardname{
+    margin: 35px;
+}
+/* .uncdropdown{
+    background-color: aqua;
+} */

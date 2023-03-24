@@ -1,0 +1,30 @@
+.dhead{
+    background-color: rgb(250, 249, 249)250, 249, 249;
+    height: 50px;
+}
+
+.valley{
+    padding-right: 150px;
+}
+
+/* .icongo{
+    font-size: 8vh;
+    color: black;
+    padding-right: 5vh;
+} */
+
+.search{
+    border-radius: 100px;
+    height: 35px;
+}
+
+/* .iconbs{
+    font-size: 5vh;
+    color: black;
+} */
+
+.dd{
+    width: 100px;
+    
+     /* height: 10px; */
+}
